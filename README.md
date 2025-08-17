@@ -46,8 +46,8 @@ The project demonstrates how dashboards evolve from a **basic overview** to an *
 ---
 
 ## 🚀 Key Takeaways
-- Initial dashboards provide [***broad insights***](/v1/README-basic.md), but may lack actionable depth.  
-- [**Enhanced dashboard**](/v2/README-enhanced.md) allow **role-specific analysis**, which is more valuable to recruiters, analysts, and job seekers.  
+- :arrow_right:Initial dashboards provide [***broad insights***](/v1/README-basic.md), but may lack actionable depth.  
+- [**:arrow_right:Enhanced dashboard**](/v2/README-enhanced.md) allow **role-specific analysis**, which is more valuable to recruiters, analysts, and job seekers.  
 
 ---
 
