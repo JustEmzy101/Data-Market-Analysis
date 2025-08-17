@@ -16,8 +16,8 @@ The project demonstrates how dashboards evolve from a **basic overview** to an *
 ## 🎯 Objective
 - Analyze the **2024 Data Jobs Market dataset** from [Luke Barousse’s DataNerd.tech](https://datanerd.tech).  
 - Compare two dashboards:
-  1. **Initial Dashboard** → General insights (job counts, salaries, top roles)  
-  2. **Enhanced Dashboard** → Role-level insights (salary, job benefits, geography, platforms)  
+  1. [**Initial Dashboard**](/v1/README-basic.md) → General insights (job counts, salaries, top roles, Major KPIs)  
+  2. [**Enhanced Dashboard**](/v2/README-enhanced.md) → Role-level insights (salary, job benefits, geography, platforms)  
 
 ---
 
@@ -32,32 +32,22 @@ The project demonstrates how dashboards evolve from a **basic overview** to an *
 
 
 ### Skills Showcased
-This project was a journey through key Power BI features. Here's a look at what we mastered:
 
-- ⚙️ Data Transformation (ETL) with Power Query: Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
-
-- 📈 Implicit Measures: Formulated measures to derive key insights and KPIs like Median Yearly Salary and Job Count.
-
-- 📊 Core Charts: Utilized Column, Bar, Line, and Area Charts to compare job counts and track trends over time.
-
-- 🌍 Geospatial Analysis: Leveraged Map Charts to visualize the global distribution of jobs.
-
-- 🎯 KPI Indicators & Tables: Used Cards to display key metrics and Tables to provide granular, sortable data.
-
-- 🎨 Dashboard Design: Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
-
-- 🔄 Interactive Reporting:
-
-  - Slicers: To dynamically filter the report by Job Title.
-  
-  - Buttons & Bookmarks: To create a seamless navigation experience.
-  
-  - Drill-Through: To navigate from a high-level summary to a contextual, detailed view.
+- 🎨 Dashboard Layout & Design
+- ⚙️ Power Query (ETL & Data Reshaping)
+-  :chains:Basic Data Modeling (Table Relationships)
+- 📈 Implicit Measures & Standard Aggregations
+- 📊 Core Charts (Bar,Line,Area,Column)
+- 🌍 Map Visualization for Geospatial Analysis
+- 🎯 KPI Indicators & Detailed Tables
+- 🔄 Interactive Slicers for filtering
+- :computer_mouse:Buttons & Bookmarks for Page Navigations
+- :arrow_right:Drill-Through Functionality
 ---
 
 ## 🚀 Key Takeaways
-- Initial dashboards provide **broad insights**, but may lack actionable depth.  
-- **Enhanced dashboard** allow **role-specific analysis**, which is more valuable to recruiters, analysts, and job seekers.  
+- Initial dashboards provide [***broad insights***](/v1/README-basic.md), but may lack actionable depth.  
+- [**Enhanced dashboard**](/v2/README-enhanced.md) allow **role-specific analysis**, which is more valuable to recruiters, analysts, and job seekers.  
 
 ---
 

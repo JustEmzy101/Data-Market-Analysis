@@ -40,4 +40,4 @@ It helps answer general questions such as:
 - :arrow_right:Drill-Through Functionality
 ---
 
-[:right_arrow:**View All Project 1 Details (README)**](/v1/README-basic.md)
+[**:right_arrow: View All Project 1 Details (README)**](/v1/README-basic.md)
