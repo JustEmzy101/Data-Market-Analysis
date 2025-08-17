@@ -15,30 +15,25 @@ The **Enhanced Dashboard** builds on the initial one by offering **role-specific
 ![Dashboard 2](/images/dashboard_v2.png)
 
 ### ✅ Enhanced Insights
-- **Role-Specific Salary Analysis** (median, min, max)  
-- **Job Benefits Breakdown**:
-  - WFH availability  
-  - Health insurance coverage  
-  - Degree requirement  
-- **Job Platforms** distribution per role  
-- **Geographic Spread** of opportunities  
-- **Schedule Types** (full-time vs contract)  
+- **Role-Specific Salary Analysis**   
+- **Job Title Analysis** per role  
+- **Skill-Based Presence** by Count and Percentage  
+- **Pay Analysis** Annualy and Hourly
 
 ---
 
 ## 🔎 Value Added
 Unlike the initial dashboard, this version:  
-- Allows **filtering by role** (e.g., Data Analyst, Data Scientist, BI Engineer).  
+- Allows **filtering by role** (e.g., Data Analyst, Data Scientist, Data Engineer)  
 - Provides **actionable insights** for career planning, recruitment, and market analysis.  
-- Highlights where opportunities are concentrated, both by **country** and **platform**.  
+- Highlights where opportunities are concentrated, both by **country** and **Average Skill Count** needed per role.  
 
 ---
 
 ## 🚀 Example Insights
-- **Business Analysts** → Median salary ≈ $95k, with 91% full-time jobs.  
-- **LinkedIn** → Dominates job postings across all roles.  
-- **Work-from-Home** → More common in tech-heavy roles (Data Scientist, ML Engineer).  
-- **Geography** → U.S. leads in salaries, but other regions have strong job counts.  
+- **Data Scientist** → Median salary ≈ $125k, 
+- **Python** dominates the skills needed by 66.6%
+- **Average Skill Count** in Data science needed is 4.5
 
 ---
 
